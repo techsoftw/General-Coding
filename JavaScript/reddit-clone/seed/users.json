@@ -1,0 +1,44 @@
+[
+	{
+		"_id": "techsoftw",
+		"password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+		"joined": ISODate('2016-10-03T10:00:00Z'),
+		"lastLogin": ISODate('2016-10-03T10:00:00Z'),
+		"postKarma": 0,
+		"commentKarma": 0,
+		"preferences":
+		{
+			"postsPerPage": 25,
+			"commentsDisplay": 200,
+			"friends":
+			[
+				
+			],
+			"blocked":
+			[
+				
+			]
+		}
+	},
+	{
+		"_id": "tester",
+		"password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+		"joined": ISODate('2016-10-03T10:00:00Z'),
+		"lastLogin": ISODate('2016-10-03T10:00:00Z'),
+		"postKarma": 0,
+		"commentKarma": 0,
+		"preferences":
+		{
+			"postsPerPage": 25,
+			"commentsDisplay": 200,
+			"friends":
+			[
+				"techsoftw"
+			],
+			"blocked":
+			[
+			
+			]
+		}
+	}
+]

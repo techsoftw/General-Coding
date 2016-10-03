@@ -1,0 +1,20 @@
+[
+	{
+		"_id": "post1",
+		"subreddit": "sub1",
+		"author": "techsoftw",
+		"createdAt": ISODate('2016-10-03T10:00:00Z'),
+		"totalComments": 0,
+		"ups": 0,
+		"downs": 0
+	},
+	{
+		"_id": "post2",
+		"subreddit": "sub2",
+		"author": "techsoftw",
+		"createdAt": ISODate('2016-10-03T10:02:00Z'),
+		"totalComments": 0,
+		"ups": 0,
+		"downs": 0
+	}
+]

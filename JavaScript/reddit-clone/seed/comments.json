@@ -1,0 +1,20 @@
+[
+	{
+		"_id": ObjectId("57ef5e95c65d0d4b20147604"),
+		"author": "techsoftw",
+		"post": "post1",
+		"ups": 0,
+		"downs": 0,
+		"createdAt": ISODate('2016-10-03T10:02:00Z'),
+		"content": "this is a test"
+	},
+	{
+		"_id": ObjectId("57ef5e95c65d0d4b20147605"),
+		"author": "techsoftw",
+		"post": "post2",
+		"ups": 0,
+		"downs": 0,
+		"createdAt": ISODate('2016-10-03T10:02:03Z'),
+		"content": "testing123"
+	}
+]

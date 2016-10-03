@@ -1,0 +1,16 @@
+[
+	{
+		"_id": "sub1",
+		"administrators":
+		[
+			"techsoftw"
+		]
+	},
+	{
+		"_id": "sub2",
+		"administrators":
+		[
+			"techsoftw"
+		]
+	}
+]
