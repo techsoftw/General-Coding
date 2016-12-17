@@ -2,7 +2,7 @@
 # NAME: Dylan Tu
 # DATE: 11-25-16
 # FILE: wk12_ex3.pl
-# DESC:
+# DESC: Displays an address book
 
 use v5.16;
 use strict;
